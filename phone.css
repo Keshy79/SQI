@@ -1,0 +1,32 @@
+@media screen and (max-width: 475px) {
+    *
+    .study {
+        color: #000e42;
+        font-size: 45px;
+        font-weight: 500;
+    }
+
+    .row {
+        padding: 0px 10px;
+    }
+    .header {
+        margin-left: -80px;
+        width: 350px;
+        height: 350px;
+        padding-top: 50px;
+    }
+    .g-img {
+        display: none;
+    }
+    .learn {
+        /* font-weight: 500; */
+        /* padding-top: 20px; */
+        color: gray;
+        font-size: 15px;
+    }
+
+    .change {
+        padding: 50px 20px;
+        color: #000e42;
+    }
+}

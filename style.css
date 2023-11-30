@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.row {
+    padding: 5px 120px;
+}
+.mom{
+    height: 80px;
+    width: 80px;
+}
+
+.list {
+    gap: 20px;
+}
+.start {
+   background-color: blue;
+   border-radius: 10px;
+   height: 50px;
+   width: 140px;
+   color: white;
+   border: none;
+   margin-top: 10px;
+}
+.global {
+    background-color: #fffef7;
+}
+.study {
+    color: #000e42;
+    font-weight: 900;
+    padding-top: 50px;
+    font-size: 70px;
+}
+
+.learn {
+    font-weight: 500;
+    padding-top: 20px;
+    color: gray;
+}
+
+.glance {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+ 
+.graduate {
+    margin-top: 55px;
+}
+.scict {
+    padding-top: 70px;
+}
+.sqi {
+    padding-top: 10px;
+}
+.change {
+    padding: 90px 130px;
+    color: #000e42;
+}
+
+.national {
+    color: #000e42;
+    padding: 30px 0px;
+}
+.diploma {
+    color: #000e42;
+    padding: 30px 0px;
+}
+.program {
+    color: #000e42;
+    padding: 30px 0px;
+}
+.nation {
+    color: gray;
+font-size: 18px;
+}
+.diplo {
+    color: gray;
+font-size: 17px;
+}
+.prog {
+    color: gray;
+    font-size: 20px;
+
+}.more {
+    color: #000e42;
+    font-weight: 500;
+}
+.duration{
+    font-weight: 500;
+    padding: 55px 0px 10px 0px;
+}
+.top {
+    font-weight: 900;
+    padding: 90px 0px 10px 0px;
+
+}
+.view {
+    color: #000e42;
+    
+}
+.view:hover {
+   color: peru;
+}
+.software {
+    background-color: #d5e9f2;
+    box-shadow: 0px 0px 50px #d5e9f2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.web-img {
+    border-radius: 30px;
+}
+.soft {
+    padding-top: 20px;
+}
+.product {
+    background-color: #e0d5c0;
+    box-shadow: 0px 0px 50px #d1e9d7;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.data {
+    background-color: #eeefbd;
+    box-shadow: 0px 0px 50px #e19584;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.digital {
+    background-color: #dfd5e8;
+    box-shadow: 0px 0px 50px #e19584;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
